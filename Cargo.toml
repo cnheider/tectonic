@@ -37,7 +37,7 @@ doc = false
 [build-dependencies]
 gcc = "^0.3"
 pkg-config = "^0.3"
-regex = "^0.2"
+regex = "^1.5"
 sha2 = "^0.5"
 
 [dependencies]
